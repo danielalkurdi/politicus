@@ -1,6 +1,6 @@
 # Politicus
 
-A machine learning project for analyzing Australian political sentiment from X.com (Twitter) data, focusing on Labor vs Liberal party sentiment analysis.
+A machine learning project for analysing Australian political sentiment from X.com (Twitter) data, focusing on Labor vs Liberal party sentiment analysis.
 
 ## Project Overview
 
@@ -68,7 +68,7 @@ politicus/
 ├── requirements.txt                           # Python dependencies
 ├── .env                                      # Environment variables (API keys)
 ├── .gitignore                               # Git ignore rules
-├── CLAUDE.md                                # Claude Code instructions
+├── CLAUDE.md                                # Claude Code instructions (if you use it)
 └── README.md                                # This file
 ```
 
@@ -82,9 +82,9 @@ politicus/
 - Filters out retweets to focus on original content
 
 ### Sentiment Analysis
-- **VADER Sentiment**: Specialized for social media text analysis
+- **VADER Sentiment**: Specialised for social media text analysis
 - **Political Context**: Australian-specific political terminology
-- **Party Classification**: Categorizes content as Labor or Liberal-leaning
+- **Party Classification**: Categorises content as Labor or Liberal-leaning
 - **Engagement Analysis**: Correlates sentiment with user engagement
 
 ### Search Queries
@@ -141,7 +141,6 @@ The notebook generates:
 - Results can be exported as needed for research
 
 ### Australian Political Context
-- Correctly spells "Labor" (not "Labour") for Australian Labor Party
 - Focuses on federal Australian politics
 - Includes relevant Australian political hashtags and terminology
 - Accounts for Australian political figures and current leadership
