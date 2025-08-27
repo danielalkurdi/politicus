@@ -35,6 +35,9 @@ data/*.log
 .idea/
 *.swp
 *.swo
+.serena
+.venv
+.claude
 
 # OS
 .DS_Store
