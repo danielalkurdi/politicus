@@ -1,6 +1,6 @@
 # Politicus
 
-A machine learning project for analysing Australian political sentiment from X.com (Twitter) data, focusing on Labor vs Liberal party sentiment analysis.
+A machine learning project for analysing Australian political sentiment from X.com (formerly Twitter) data, focusing on Labor vs Liberal party sentiment analysis.
 
 ## Project Overview
 
