@@ -38,6 +38,7 @@ data/*.log
 .serena
 .venv
 .claude
+.ipynb_checkpoints
 
 # OS
 .DS_Store
